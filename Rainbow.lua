@@ -16,8 +16,8 @@ end
 task.wait(0.3)
 
 -- 3. Kích hoạt RainbowMachine với số 50
-local machineID = "d1f3228b6c1948afbb02c7b2757d64ff"
-local amount = 50
+local machineID = "b1579dee347b42f6b0607b106662b605"
+local amount = 5
 
 print("Đang kích hoạt RainbowMachine với", amount, "...")
 local success, result = pcall(function()
