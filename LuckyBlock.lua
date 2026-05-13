@@ -1,7 +1,7 @@
 local network = game:GetService("ReplicatedStorage"):WaitForChild("Network")
 
 -- ID summoner cố định từ log
-local SUMMONER_ID = "41b63dee107641658e6afe613f722f3a"
+local SUMMONER_ID = "ec479c65c634432b887b957127ff93b0"
 
 print("=== BẮT ĐẦU MINI LUCKY BLOCK ===")
 
