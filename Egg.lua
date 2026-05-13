@@ -21,7 +21,7 @@ end
 print("✅ Đã mua xong.")
 
 -- 2. Đợi giao diện mở trứng hiện ra (nếu có)
-task.wait(1)
+task.wait(2)
 
 -- 3. Lấy tọa độ giữa màn hình
 local viewport = cam.ViewportSize
