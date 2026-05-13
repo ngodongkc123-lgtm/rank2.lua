@@ -2,7 +2,7 @@ local network = game:GetService("ReplicatedStorage"):WaitForChild("Network")
 local player = game.Players.LocalPlayer
 
 -- ID summoner cố định (từ log ảnh 13:57:46 của bạn)
-local SUMMONER_ID = "1c70a8aa902c4e2884d3f45e4c3dc03d"
+local SUMMONER_ID = "67b7805cb454398be436e4526b26493"
 
 -- Hàm tìm sao chổi mới nhất trong Workspace (dựa vào tên)
 local function findNewestComet()
