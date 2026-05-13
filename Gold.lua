@@ -18,7 +18,7 @@ task.wait(0.3)
 -- 3. Kích hoạt với số 500
 print("Đang kích hoạt GoldMachine với 500...")
 local success, result = pcall(function()
-    return network.GoldMachine_Activate:InvokeServer("5079e00776c1491394f47486ff945cd6", 500)
+    return network.GoldMachine_Activate:InvokeServer("6a5b47a2bf914254ba26c1dba82968fd", 10)
 end)
 
 if success then
