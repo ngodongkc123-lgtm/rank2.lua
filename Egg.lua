@@ -1,7 +1,7 @@
 local network = game:GetService("ReplicatedStorage"):WaitForChild("Network")
 
 local eggName = "Hollow Egg"
-local quantity = 50
+local quantity = 10
 
 print("Đang mua " .. quantity .. " " .. eggName .. "...")
 local success, result = pcall(function()
