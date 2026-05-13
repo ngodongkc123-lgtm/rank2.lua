@@ -1,7 +1,7 @@
 local network = game:GetService("ReplicatedStorage"):WaitForChild("Network")
 
 -- ID summoner cố định từ log của bạn
-local SUMMONER_ID = "92024667d35c45c3aef99e3ae444ca69"
+local SUMMONER_ID = "20e8099f4262467f975079138843cb0a"
 
 print("=== BẮT ĐẦU COIN JAR ===")
 
