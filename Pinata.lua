@@ -1,7 +1,7 @@
 local network = game:GetService("ReplicatedStorage"):WaitForChild("Network")
 
 -- ID summoner cố định từ log
-local SUMMONER_ID = "324f70571ba74f79930d37ceab9e2daf"
+local SUMMONER_ID = "77644a53cd334b378ff7ed16e3b050c6"
 
 print("=== BẮT ĐẦU MINI PINATA ===")
 
