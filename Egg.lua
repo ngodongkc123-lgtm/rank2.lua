@@ -4,7 +4,7 @@ local cam = workspace.CurrentCamera
 
 -- ===== CÀI ĐẶT =====
 local eggName = "Hollow Egg"
-local buyAmount = 25
+local buyAmount = 10
 local clickTimes = 7
 local clickDelay = 0.12  -- giây giữa các lần click
 -- ====================
@@ -21,7 +21,7 @@ end
 print("✅ Đã mua xong.")
 
 -- 2. Đợi giao diện mở trứng hiện ra (nếu có)
-task.wait(2)
+task.wait(1)
 
 -- 3. Lấy tọa độ giữa màn hình
 local viewport = cam.ViewportSize
